@@ -11,7 +11,7 @@
 * [A] Singh, R., Hie, B. L., Narayan, A. & Berger, B. Schema: metric learning enables interpretable synthesis of heterogeneous single-cell modalities. Genome Biol 22, 131 (2021).
 * [A] Cantini, L. et al. Benchmarking joint multi-omics dimensionality reduction approaches for the study of cancer. Nat Commun 12, 124 (2021).
 * [A] Lotfollahi, M. et al. Mapping single-cell data to reference atlases by transfer learning. Nat Biotechnol 1–10 (2021) doi:10.1038/s41587-021-01001-7.
-   **The scArc paper. The first transfer learning application on scRNA-seq integration**
+  ** The scArc paper. The first transfer learning application on scRNA-seq integration
 * [A] Kuchroo, M., Godavarthi, A., Wolf, G. & Krishnaswamy, S. Multimodal data visualization, denoising and clustering with integrated diffusion. Arxiv (2021).
 * [A] Martinez-de-Morentin, X., Khan, S. A., Lehmann, R., Tegner, J. & Gomez-Cabrero, D. Machine Translation between paired Single Cell Multi Omics Data. Biorxiv 2021.01.27.428400 (2021) doi:10.1101/2021.01.27.428400.
 * [D] Swanson, E. et al. Simultaneous trimodal single-cell measurement of transcripts, epitopes, and chromatin accessibility using TEA-seq. Elife 10, e63632 (2021). **The TEA-seq (Transcription, Epitopes, and Accessibility) paper** 
