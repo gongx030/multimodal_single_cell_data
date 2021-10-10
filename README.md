@@ -10,9 +10,11 @@
 * Singh, R., Hie, B. L., Narayan, A. & Berger, B. Schema: metric learning enables interpretable synthesis of heterogeneous single-cell modalities. Genome Biol 22, 131 (2021).
 * Cao, K., Bai, X., Hong, Y. & Wan, L. Unsupervised topological alignment for single-cell multi-omics integration. Bioinformatics 36, i48–i56 (2020)  
 * Uzun, Y., Wu, H. & Tan, K. Predictive modeling of single-cell DNA methylome data enhances integration with transcriptome data. Genome Res 31, gr.267047.120 (2020).
-
-
-    1.Cantini, L. et al. Benchmarking joint multi-omics dimensionality reduction approaches for the study of cancer. Nat Commun 12, 124 (2021).
+* Cantini, L. et al. Benchmarking joint multi-omics dimensionality reduction approaches for the study of cancer. Nat Commun 12, 124 (2021).
+* 
+    1.Argelaguet, R. et al. Multi-omics profiling of mouse gastrulation at single-cell resolution. Nature 576, 487–491 (2019).
+  
+  Single nucleus multi-omics links human cortical cell regulatory genome diversity to disease risk variants
   
 
 ### Technologies
