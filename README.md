@@ -29,6 +29,8 @@
 * [A] Ma, S. et al. Chromatin Potential Identified by Shared Single-Cell Profiling of RNA and Chromatin. Cell 183, 1103-1116.e20 (2020).
 * [D] Cuomo, A. S. E. et al. Single-cell RNA-sequencing of differentiating iPS cells reveals dynamic genetic effects on gene expression. Nat Commun 11, 810 (2020).
 * [A] Zuo, C. & Chen, L. Deep-joint-learning analysis model of single cell transcriptome and open chromatin accessibility data. Brief Bioinform 22, bbaa287- (2020).
+* [A] Wang, C. et al. Integrative analyses of single-cell transcriptome and regulome using MAESTRO. Genome Biol 21, 198 (2020).
+  
   
 ### 2019
 * [D] Argelaguet, R. et al. Multi-omics profiling of mouse gastrulation at single-cell resolution. Nature 576, 487–491 (2019).
