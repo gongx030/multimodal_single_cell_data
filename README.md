@@ -39,6 +39,8 @@
 * [D] Liu, L. et al. Deconvolution of single-cell multi-omics layers reveals regulatory heterogeneity. Nat Commun 10, 470 (2019). 
    * The scCAT-seq (single-cell chromatin accessibility and transcriptome sequencing) paper
 * [D] Zhu, C. et al. An ultra high-throughput method for single-cell joint analysis of open chromatin and transcriptome. Nat Struct Mol Biol 26, 1063–1070 (2019).
+* [A] Shi, Y., Siddharth, N., Paige, B. & Torr, P. H. S. Variational Mixture-of-Experts Autoencoders for Multi-Modal Deep Generative Models. Arxiv (2019).
+  
     
     
 ### 2018
