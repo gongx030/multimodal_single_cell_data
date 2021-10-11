@@ -47,16 +47,18 @@
 * [D] Duren, Z. et al. Integrative analysis of single-cell genomics data by coupled nonnegative matrix factorizations. Proc Natl Acad Sci U S A 115, 7723–7728 (2018).
 * [D] Clark, S. J. et al. scNMT-seq enables joint profiling of chromatin accessibility DNA methylation and transcription in single cells. Nat Commun 9, 781 (2018).
 * [D] Cao, J. et al. Joint profiling of chromatin accessibility and gene expression in thousands of single cells. Science 361, 1380–1385 (2018).
+   * The sci-CAR paper
     
   
 ### 2017
 * [D] Stoeckius, M. et al. Simultaneous epitope and transcriptome measurement in single cells. Nat Methods 14, 865–868 (2017). 
-The CITE-seq paper. 
+  * The CITE-seq paper. 
 * [A] Welch, J. D., Hartemink, A. J. & Prins, J. F. MATCHER: manifold alignment reveals correspondence between single cell transcriptome and epigenome dynamics. Genome Biol 18, 138 (2017).
   
 
 ### 2016 
-* [D] Angermueller, C. et al. Parallel single-cell sequencing links transcriptional and epigenetic heterogeneity. Nat Methods 13, 229–232 (2016). **The scM&T-seq paper.** 
+* [D] Angermueller, C. et al. Parallel single-cell sequencing links transcriptional and epigenetic heterogeneity. Nat Methods 13, 229–232 (2016). 
+   * The scM&T-seq paper.
 * [D] Cheow, L. F. et al. Single-cell multimodal profiling reveals cellular epigenetic heterogeneity. Nat Methods 13, 833–836 (2016).
 
 
