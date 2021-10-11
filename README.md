@@ -18,6 +18,8 @@
 * [D] Swanson, E. et al. Simultaneous trimodal single-cell measurement of transcripts, epitopes, and chromatin accessibility using TEA-seq. Elife 10, e63632 (2021).
    * The TEA-seq (Transcription, Epitopes, and Accessibility) paper
 * [A] Minoura, K., Abe, K., Nam, H., Nishikawa, H. & Shimamura, T. A mixture-of-experts deep generative model for integrated analysis of single-cell multiomics data. Cell Reports Methods 1, 100071 (2021).
+* [A] Granja, J. M. et al. ArchR is a scalable software package for integrative single-cell chromatin accessibility analysis. Nat Genet 53, 403–411 (2021).
+  
   
 ### 2020
 * [A] Cao, K., Bai, X., Hong, Y. & Wan, L. Unsupervised topological alignment for single-cell multi-omics integration. Bioinformatics 36, i48–i56 (2020)  
